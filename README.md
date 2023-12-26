@@ -29,22 +29,32 @@ Skills :
  <img alt="Provider" src="https://img.shields.io/badge/-Provider-blue?style=for-the-badge&logoColor=white" />
  
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCD32?style=for-the-badge&logo=firebase&logoColor=grey" />
-    <img alt="Rest Api" src="https://img.shields.io/badge/-REST_API-FFCD32?style=for-the-badge&logoColor=grey" />
-     <img alt="Socket.IO" src="https://img.shields.io/badge/-Socket.IO-FFCD32?style=for-the-badge&logo=socket.io&logoColor=grey" />
-      <img alt="Git" src="https://img.shields.io/badge/-Git-FFCD32?style=for-the-badge&logo=git&logoColor=grey" />
-      <img alt="Github" src="https://img.shields.io/badge/-Github-FFCD32?style=for-the-badge&logo=github&logoColor=grey" />
-       <img alt="DDD" src="https://img.shields.io/badge/-DDD_Architecture-FFCD32?style=for-the-badge&logoColor=grey" />
-       <img alt="DDD" src="https://img.shields.io/badge/-MVC_Architecture-FFCD32?style=for-the-badge&logoColor=grey" />
-        <img alt="Postman" src="https://img.shields.io/badge/-Postman-FFCD32?style=for-the-badge&logo=postman&logoColor=grey" />
-        <img alt="Figma" src="https://img.shields.io/badge/-Figma-FFCD32?style=for-the-badge&logo=figma&logoColor=grey" />
-        <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-FFCD32?style=for-the-badge&logo=adobephotoshop&logoColor=grey" />
-            <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere_Pro-FFCD32?style=for-the-badge&logo=adobepremierepro&logoColor=grey" />
-         <img alt="After Effects" src="https://img.shields.io/badge/-After_Effects-FFCD32?style=for-the-badge&logo=adobeaftereffects&logoColor=grey" />
-         <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-FFCD32?style=for-the-badge&logo=arduino&logoColor=grey" />
-         <img alt="ESP 8266" src="https://img.shields.io/badge/-ESP_8266-FFCD32?style=for-the-badge&logo=esphome&logoColor=grey" />
-          <img alt="IOT" src="https://img.shields.io/badge/-IOT-FFCD32?style=for-the-badge&logoColor=grey" />
+    <img alt="Rest Api" src="https://img.shields.io/badge/-REST_API-F05539?style=for-the-badge&logoColor=grey" />
+     <img alt="Socket.IO" src="https://img.shields.io/badge/-Socket.IO-white?style=for-the-badge&logo=socket.io&logoColor=black" />
+      <img alt="Git" src="https://img.shields.io/badge/-Git-F05539?style=for-the-badge&logo=git&logoColor=white" />
+      <img alt="Github" src="https://img.shields.io/badge/-Github-white?style=for-the-badge&logo=github&logoColor=black" />
+       <img alt="DDD" src="https://img.shields.io/badge/-DDD_Architecture-45b8d8?style=for-the-badge&logoColor=white" />
+       <img alt="DDD" src="https://img.shields.io/badge/-MVC_Architecture-blue?style=for-the-badge&logoColor=white" />
+        <img alt="Postman" src="https://img.shields.io/badge/-Postman-FD713B?style=for-the-badge&logo=postman&logoColor=white" />
+        <img alt="Figma" src="https://img.shields.io/badge/-Figma-a55eff?style=for-the-badge&logo=figma&logoColor=white" />
+        <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-08253c?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+            <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere_Pro-31083a?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+         <img alt="After Effects" src="https://img.shields.io/badge/-After_Effects-260849?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+         <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-088b93?style=for-the-badge&logo=arduino&logoColor=white" />
+         <img alt="ESP 8266" src="https://img.shields.io/badge/-ESP_8266-c22927?style=for-the-badge&logo=esphome&logoColor=white" />
+          <img alt="IOT" src="https://img.shields.io/badge/-IOT-54a4d4?style=for-the-badge&logoColor=grey" />
       
      
+ 
+ <!--</p>-->
+ 
+ <!--Favourite Projects :-->
+ <!--<p>-->
+ 
+ 
+ 
+ 
+ 
  
  </p>
  
