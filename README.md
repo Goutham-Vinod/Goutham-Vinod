@@ -16,7 +16,7 @@
 
 
 <!-- Social Media Contacts -->
-[![Linkedin Badge](https://img.shields.io/badge/-Goutham_V-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-v-42351826a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Goutham_V-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/goutham-vinod/)
 [![Gmail Badge](https://img.shields.io/badge/-gouthamv2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gouthamv2000@gmail.com)](mailto:gouthamv2000@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@goutham__vinod__-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/goutham_vinod_/)
 [![Leetcode Badge](https://img.shields.io/badge/-Goutham_Vinod-FFA41D?style=flat&labelColor=FFA41D&logo=leetcode&logoColor=white)](https://leetcode.com/GouthamVinod/)
