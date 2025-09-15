@@ -25,7 +25,7 @@
 
 
 
- 📄 Know more about me : [Resume](https://drive.google.com/file/d/1PkIEOxcxCUYhfQgDJnFmY3Rr0Y15GwCR/view?usp=sharing)
+ 📄 Know more about me : [Resume](https://drive.google.com/file/d/1_PPe3BclaTe5w1JJRUDjNoef5jSiWYLL/view?usp=sharing)
 
  <p> Skills : </p>
 
